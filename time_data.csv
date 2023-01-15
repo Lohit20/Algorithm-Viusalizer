@@ -1,0 +1,43 @@
+Algorithm,Inputs,Time 
+Bubble Sort,14,0.336692333
+Bubble Sort,22,1.004424572
+Quick Sort,15,0.741858006
+Quick Sort,12,0.483492613
+Bubble Sort,30,3.220566511
+Bubble Sort,15,0.438736916
+Bubble Sort,18,0.617638826
+Quick Sort,11,0.340390205
+Quick Sort,30,2.328188896
+Count Sort,30,0.605515242
+Count Sort,16,0.269956827
+Count Sort,8,0.141690969
+Heapify Sort,10,0.117092133
+Heapify Sort,20,0.997985363
+Heapify Sort,30,2.53969121
+Bubble Sort,8,0.054520845
+Bubble Sort,5,0.021237373
+Bubble Sort,3,0.011548519
+Insertion Sort,12,0.359978199
+Insertion Sort,25,1.805600882
+Merge Sort,15,0.151062012
+Merge Sort,23,0.420639992
+Merge Sort,5,0.032943487
+Merge Sort,30,0.622022867
+problem 7.4.5 Sort,16,0.644736767
+problem 7.4.5 Sort,5,0.047629356
+problem 7.4.5 Sort,30,2.637727261
+Radix Sort,17,0.416633844
+Radix Sort,5,0.096089363
+Radix Sort,25,0.748453617
+Count Sort,30,0.697798252
+Bubble Sort,12,0.40934515
+Problem 8.2.4,12,0.297878981
+Problem 8.2.4,14,0.292114019
+Problem 8.2.4,11,0.207809687
+Problem 8.2.4,12,0.177023172
+Problem 8.2.4,16,0.273616552
+Problem 8.2.4,9,0.247634172
+Bubble Sort,0,0.0
+Bucket Sort,21,0.4077169895172119
+Bubble Sort,16,0.4824638366699219
+Bubble Sort,14,0.4336223602294922
