@@ -12,7 +12,7 @@ from insertionsort import insertionSort
 from countsort import countingSort
 from radixsort import radixSort
 from heapifysort import heapSort
-from problem_a import hybrid_quick_sort
+from hybridquicksort import hybrid_quick_sort
 from problem_b import problem
 
 
